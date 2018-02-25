@@ -1,0 +1,34 @@
+11:03:38 CARDREAD 1234
+ENTER PIN
+11:03:38 NUM 6789
+Choose transaction W - withdraw, CB - check balance, CANCEL - return card
+11:03:38 BUTTON W
+Amount?
+11:03:38 W 20
+NEW BALANCE: 60.0
+Choose transaction W - withdraw, CB - check balance, CANCEL - return card
+11:03:38 BUTTON CB
+CB 60.0
+Choose transaction W - withdraw, CB - check balance, CANCEL - return card
+11:03:38 BUTTON CANCEL
+ENJECT CARD
+11:03:38 CARDREAD 6789
+ENTER PIN
+11:03:38 NUM 4444
+ENTER PIN
+11:03:38 NUM 5555
+ENTER PIN
+11:03:38 NUM 4321
+Choose transaction W - withdraw, CB - check balance, CANCEL - return card
+11:03:38 BUTTON W
+Amount?
+11:03:38 W 100
+DECLINED
+Choose transaction W - withdraw, CB - check balance, CANCEL - return card
+11:03:38 BUTTON CB
+CB 60.0
+Choose transaction W - withdraw, CB - check balance, CANCEL - return card
+11:03:38 BUTTON CANCEL
+ENJECT CARD
+11:03:38 CARDREAD -1
+11:03:38 ATM SHUTDOWN
